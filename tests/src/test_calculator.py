@@ -7,3 +7,6 @@ def test_add():
     assert cal.add(1, 2) == 3
 def test_divide():
     assert cal.div(3, 1) == 3
+
+def test_divide():
+    assert cal.divide(2,1) == 2 
